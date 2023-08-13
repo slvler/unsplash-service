@@ -9,10 +9,10 @@ class Stats extends Client
     CONST month = "/stats/month";
     public function totals()
     {
-        return $this->get(self::total.'?client_id=SVbkCvrZdx8wxD1jfxkBv5JA-78C-ayQBvNstWGDwZ8');
+        return $this->get(self::total.'?client_id=');
     }
     public function months()
     {
-        return $this->get(self::month.'?client_id=SVbkCvrZdx8wxD1jfxkBv5JA-78C-ayQBvNstWGDwZ8');
+        return $this->get(self::month.'?client_id=');
     }
 }
