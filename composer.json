@@ -1,16 +1,11 @@
 {
     "name": "slvler/unsplash-service",
     "license": "MIT",
-    "require": {
-        "php": "^8.0.2",
-        "guzzlehttp/guzzle": "^7.2",
-        "illuminate/support": "^9.0",
-        "psr/http-message": "^1.1.0|^2.0.0"
-    },
+    "require": {},
     "require-dev": {
-        "friendsofphp/php-cs-fixer": "^3.6",
-        "orchestra/testbench": "^7.0",
-        "phpunit/phpunit": "^9.5.8"
+        "orchestra/testbench": "^6.18.0",
+        "phpunit/phpunit": "^9.5",
+        "guzzlehttp/guzzle": "^7.0.1"
     },
     "autoload": {
         "psr-4": {
