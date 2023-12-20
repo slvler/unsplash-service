@@ -3,6 +3,12 @@
     "license": "MIT",
     "description": "unsplash laravel api wrapper",
     "type": "package",
+    "authors": [
+        {
+            "name": "slvler",
+            "email": "slvler@proton.me"
+        }
+    ],
     "require": {},
     "require-dev": {
         "orchestra/testbench": "^6.18.0",
