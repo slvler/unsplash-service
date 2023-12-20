@@ -1,6 +1,15 @@
 # slvler - unsplash-service
 
 
+[![tests](https://github.com/slvler/unsplash-service/actions/workflows/tests.yml/badge.svg)](https://github.com/slvler/unsplash-service/actions/workflows/tests.yml)
+[![Latest Stable Version](http://poser.pugx.org/slvler/unsplash-service/v)](https://packagist.org/packages/slvler/unsplash-service) 
+[![Latest Unstable Version](http://poser.pugx.org/slvler/unsplash-service/v/unstable)](https://packagist.org/packages/slvler/unsplash-service) 
+[![License](http://poser.pugx.org/slvler/unsplash-service/license)](https://packagist.org/packages/slvler/unsplash-service)
+
+
+This package provides a convenient wrapper to the [Unsplash API](https://unsplash.com/documentation)  for Laravel applications.
+
+
 ## Requirements
 
 - PHP 8.0+
